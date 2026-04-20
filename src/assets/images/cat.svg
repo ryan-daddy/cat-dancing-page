@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <!-- Body -->
+  <ellipse cx="100" cy="150" rx="55" ry="50" fill="#F4A261"/>
+  <!-- Head -->
+  <circle cx="100" cy="80" r="45" fill="#F4A261"/>
+  <!-- Left ear -->
+  <polygon points="60,45 45,10 80,35" fill="#F4A261"/>
+  <polygon points="62,42 50,18 75,37" fill="#E76F51"/>
+  <!-- Right ear -->
+  <polygon points="140,45 155,10 120,35" fill="#F4A261"/>
+  <polygon points="138,42 150,18 125,37" fill="#E76F51"/>
+  <!-- Eyes -->
+  <ellipse cx="82" cy="75" rx="10" ry="12" fill="#2D3436"/>
+  <ellipse cx="118" cy="75" rx="10" ry="12" fill="#2D3436"/>
+  <circle cx="85" cy="72" r="3" fill="white"/>
+  <circle cx="121" cy="72" r="3" fill="white"/>
+  <!-- Nose -->
+  <polygon points="100,90 95,96 105,96" fill="#E76F51"/>
+  <!-- Mouth -->
+  <path d="M95,96 Q100,103 105,96" fill="none" stroke="#2D3436" stroke-width="1.5"/>
+  <!-- Whiskers left -->
+  <line x1="55" y1="88" x2="90" y2="92" stroke="#636E72" stroke-width="1.5"/>
+  <line x1="55" y1="95" x2="90" y2="95" stroke="#636E72" stroke-width="1.5"/>
+  <line x1="55" y1="102" x2="90" y2="98" stroke="#636E72" stroke-width="1.5"/>
+  <!-- Whiskers right -->
+  <line x1="145" y1="88" x2="110" y2="92" stroke="#636E72" stroke-width="1.5"/>
+  <line x1="145" y1="95" x2="110" y2="95" stroke="#636E72" stroke-width="1.5"/>
+  <line x1="145" y1="102" x2="110" y2="98" stroke="#636E72" stroke-width="1.5"/>
+  <!-- Front legs -->
+  <ellipse cx="72" cy="185" rx="14" ry="20" fill="#F4A261"/>
+  <ellipse cx="128" cy="185" rx="14" ry="20" fill="#F4A261"/>
+  <!-- Paws -->
+  <ellipse cx="72" cy="203" rx="16" ry="9" fill="#E8956D"/>
+  <ellipse cx="128" cy="203" rx="16" ry="9" fill="#E8956D"/>
+  <!-- Tail -->
+  <path d="M150,160 Q185,140 178,115 Q172,95 160,105" fill="none" stroke="#F4A261" stroke-width="14" stroke-linecap="round"/>
+  <!-- Belly pattern -->
+  <ellipse cx="100" cy="155" rx="30" ry="28" fill="#FDEBD0" opacity="0.7"/>
+  <!-- Cheeks -->
+  <circle cx="70" cy="88" r="10" fill="#FFB6C1" opacity="0.5"/>
+  <circle cx="130" cy="88" r="10" fill="#FFB6C1" opacity="0.5"/>
+</svg>
